@@ -20,6 +20,7 @@ This project uses Machine Learning to identify potentially fraudulent credit car
 - Scikit-learn
 - Jupyter Notebook
 - Joblib
+- Streamlit
 
 ## Project Workflow
 1. Load and explore the dataset.
